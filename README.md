@@ -59,7 +59,7 @@ https://nusantararom.org
 
 as for 13.09.2022 those are "serious" ( Official for those roms, there are also unnoficiall ports for others ) ROMs that im aware about for redmi 10:
 - https://cherishos.com
-- GSI roms, as pixel experience were reported too work too
+- GSI roms, as pixel experience was reported too work too
 
 Instalation is as with MIUI ROM, simply install with TWRP.
 
