@@ -1,5 +1,5 @@
 # redmi10-liberated
-My journey to install a custom rom on redmi 10
+My journey to install a custom rom on redmi 10: https://www.gsmchoice.com/en/catalogue/redmi/10/
 ## Use on your own risk, I don't take any responsibility for your actions.
 Also, your device may have other IC inside, so everything may not work, additional steps could be needed. **Look into `notes-telegram` for a more detailed instructions**
 
