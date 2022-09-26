@@ -78,5 +78,5 @@ Additional notes:
 - Idk about stock, but `scrcpy` works only with those arguments: `scrcpy --encoder 'c2.android.avc.encoder' --bit-rate 5M --max-size 800 -S`
 - Mobile data works better on custom rom because it isin't locked to LTE, 3G and 2G+ as on MIUI.
 - Low level tools to unbrick are available, so it should be save.
-- with those apks i was able to make gcam ( and the macro lens ) to work on nusantara without google services: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/ , https://github.com/lukaspieper/Gcam-Services-Provider/releases/tag/v1.5
+- with those apks i was able to make gcam ( so all camera lenses ) to work on nusantara without google services: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/ , https://github.com/lukaspieper/Gcam-Services-Provider/releases/tag/v1.5
 ### Feel free to share ( On xda for example. For some reason, even a forum isin't created for this device ), improve by creating a github issue, share your experience with this device too
