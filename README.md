@@ -79,4 +79,5 @@ Additional notes:
 - Mobile data works better on custom rom because it isin't locked to LTE, 3G and 2G+ as on MIUI.
 - Low level tools to unbrick are available, so it should be save.
 - with those apks i was able to make gcam ( so all camera lenses ) to work on nusantara without google services: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/ , https://github.com/lukaspieper/Gcam-Services-Provider/releases/tag/v1.5
+- Nusantara ROM - If wifi says "Connected but failed to provide internet" its propably the masks fault. Change the ip to static and to the correct mask ( weird and stupid bug )
 ### Feel free to share ( On xda for example. For some reason, even a forum isin't created for this device ), improve by creating a github issue, share your experience with this device too
