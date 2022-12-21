@@ -51,15 +51,25 @@ https://www.xda-developers.com/xiaomi-anti-rollback-protection-brick-phone/
 
 Now, you should have a bare miui system with TWRP
 
-### 5. Custom ROMs
+### 5. Custom ROMs (ROMs that im aware about for redmi 10)
 
 I personally installed Nusantara rom, which works good:
 
-https://nusantararom.org
+-https://nusantararom.org
 
-as for 13.09.2022 those are "serious" ( Official for those roms, there are also unnoficiall ports for others ) ROMs that im aware about for redmi 10:
 - https://cherishos.com
+
 - GSI roms, as pixel experience was reported too work too
+
+Unnoficial Roms (obv that im aware of)
+
+**I AM NOT RESPONSIBLE FOR ANY DAMAGES** (these are unofficial and results will vary!)
+
+MOST OSES (no reviews... so be careful!): https://sourceforge.net/projects/redmi-10-selene/files/
+
+trusted os telegram: https://t.me/Redmi_10ID
+ 
+Lineage os gsi (heard that it works, but im not sure..) https://www.youtube.com/watch?v=WeJ5Wvvf-W0
 
 Instalation is as with MIUI ROM, simply install with TWRP.
 
