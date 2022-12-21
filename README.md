@@ -67,7 +67,7 @@ I personally installed Nusantara rom, which works good:
 
 MOST OSES): https://sourceforge.net/projects/redmi-10-selene/files/
 
-trusted os telegram: https://t.me/Redmi_10ID
+trusted os telegram: https://t.me/Redmi_10ID or https://t.me/s/R10ID_Update
  
 Lineage os gsi (heard that it works, but im not sure..) https://www.youtube.com/watch?v=WeJ5Wvvf-W0
 
