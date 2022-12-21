@@ -65,7 +65,7 @@ I personally installed Nusantara rom, which works good:
 
 **I AM NOT RESPONSIBLE FOR ANY DAMAGES** (these are unofficial and results will vary!)
 
-MOST OSES (no reviews... so be careful!): https://sourceforge.net/projects/redmi-10-selene/files/
+MOST OSES): https://sourceforge.net/projects/redmi-10-selene/files/
 
 trusted os telegram: https://t.me/Redmi_10ID
  
