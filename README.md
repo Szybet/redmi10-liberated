@@ -61,7 +61,7 @@ I personally installed Nusantara rom, which works good:
 
 - GSI roms, as pixel experience was reported too work too
 
-Unnoficial Roms (obv that im aware of)
+### 6. Unnoficial Roms (obv that im aware of)
 
 **I AM NOT RESPONSIBLE FOR ANY DAMAGES** (these are unofficial and results will vary!)
 
@@ -73,7 +73,7 @@ Lineage os gsi (heard that it works, but im not sure..) https://www.youtube.com/
 
 Instalation is as with MIUI ROM, simply install with TWRP.
 
-### 6. Root
+### 7. Root
 It was reported that magisk doesn't work. For me it works. 
 
 Install the newest magisk app from github, then make another backup of boot partition, provide it to magisk and this:
