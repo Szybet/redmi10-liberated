@@ -59,19 +59,15 @@ I personally installed Nusantara rom, which works good:
 
 - https://cherishos.com
 
-- GSI roms, as pixel experience was reported too work too
-
 ### 6. Unnoficial Roms (obv that im aware of)
 
 **I AM NOT RESPONSIBLE FOR ANY DAMAGES** (these are unofficial and results will vary!)
 
-MOST OSES): https://sourceforge.net/projects/redmi-10-selene/files/
+- Random source forge repo: https://sourceforge.net/projects/redmi-10-selene/files/
 
-trusted os telegram: https://t.me/Redmi_10ID or https://t.me/s/R10ID_Update
+- Telegreap group: https://t.me/Redmi_10ID or https://t.me/s/R10ID_Update
  
-Lineage os gsi (heard that it works, but im not sure..) https://www.youtube.com/watch?v=WeJ5Wvvf-W0
-
-Instalation is as with MIUI ROM, simply install with TWRP.
+- Lineage os gsi (heard that it works, maybe): https://www.youtube.com/watch?v=WeJ5Wvvf-W0
 
 ### 7. Root
 It was reported that magisk doesn't work. For me it works. 
@@ -90,4 +86,6 @@ Additional notes:
 - Low level tools to unbrick are available, so it should be save.
 - with those apks i was able to make gcam ( so all camera lenses ) to work on nusantara without google services: https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/ , https://github.com/lukaspieper/Gcam-Services-Provider/releases/tag/v1.5
 - Nusantara ROM - If wifi says "Connected but failed to provide internet" its propably the masks fault. Change the ip to static and to the correct mask ( weird and stupid bug )
+- Pixel experience says it supports, but it's only for the C model, partitions size vary so it doesn't work.
+- On nusantara encrypting the phone doesn't work - with root and without it. It will make a boot loop and formating data will be needed
 ### Feel free to share ( On xda for example. For some reason, even a forum isin't created for this device ), improve by creating a github issue, share your experience with this device too
